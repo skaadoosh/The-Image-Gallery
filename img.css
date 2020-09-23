@@ -1,0 +1,26 @@
+body{
+	padding-top: 70px;
+	background: #a3c1986e;
+}
+
+
+.jumbotron{
+	color: #1c423d;
+	background: #bfdcae;
+}
+
+.navbar{
+	background: #1c423d;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #d2f6c5;
+}
+
+.navbar-inverse .navbar-brand{
+	color: #d2f6c5;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+	height: 199px;
+}
